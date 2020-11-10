@@ -1,0 +1,21 @@
+1. Hafta_1. Ödev_3.Soru
+Kurucu method türleri varsayýlan (parametresiz) ve parametreli olarak iki 
+türde bulunmaktadýr.
+Default constructor ile nesne yapýldýktan sonra sýnýf deðiþkenlerine
+ulaþýp deðerlerini deðiþtirmemiz mümkündür.
+• Bu özellik ancak public veya protected tanýmlanmýþ deðiþkenler için
+mümkündür. Private tanýmlý deðiþkenlere sýnýf içinde eriþim mümkündür. 
+Sýnýf dýþýnda eriþelemezler.
+
+**Bir sýnýfý oluþtururken sýnýf özelliklerinin dýþarýdan ulaþýlabilir olup
+olmadýðýna iyi karar vermemiz gerekir. Eðer sýnýf varlýklarý dýþarýdan 
+ulaþýlabilir durumda olacaksa public, dýþarýdan ulaþýma kapatýlacaksa private
+olarak tanýmlamak gerekmektedir. Java programlama dilinde her hangi bir þey 
+yazýlmazsa tüm varlýkla public olarak tanýmlanýr.
+
+Genelde bir sýnýf oluþturulurken deðiþkenler private ve metotlar public 
+olarak görürüz.
+
+Eriþim saðlanabilmesi için kurucu methodlarý public ile oluþuturulmasý 
+gerekir. Private ile oluþturulan kurucu methodlar baþka bir class içerisinde
+çalýþtýrýlamamakta.

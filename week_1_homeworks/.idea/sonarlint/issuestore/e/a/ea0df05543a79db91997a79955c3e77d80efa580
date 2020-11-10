@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ç‘±Çüÿÿÿÿ8íÎÇÌÚ.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÚ–U
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­³¶´8íÎÇÌÚ.
+]
+java:S3518";Make sure "sayac" can't be zero before doing this division.(Šñçõøÿÿÿÿ8íÎÇÌÚ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ Íûúÿÿÿÿ8íÎÇÌÚ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8íÎÇÌÚ.

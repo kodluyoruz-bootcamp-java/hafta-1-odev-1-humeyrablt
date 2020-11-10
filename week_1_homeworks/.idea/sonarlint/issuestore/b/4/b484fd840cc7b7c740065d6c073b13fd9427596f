@@ -1,0 +1,18 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÊË½éùÿÿÿÿ8ÙÌÚ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ·Ší8ÙÌÚ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(üÄòƒ8ÙÌÚ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§İ×Ìşÿÿÿÿ8ÙÌÚ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÆ°òøÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âÓ´ëøÿÿÿÿ8ÙÌÚ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…çê‚8Ş‹ÜÔÚ.
+F
+java:S1068")Remove this unused "color" private field.(È„…¦8×»½ÖÚ.
+K
+java:S1068")Remove this unused "model" private field.(³—öûÿÿÿÿ8×»½ÖÚ.
+J
+java:S1068"-Remove this unused "modelYear" private field.(ø¶¥Ø8×»½ÖÚ.
+I
+java:S1068",Remove this unused "fueltype" private field.(òœá¯8×»½ÖÚ.
+H
+java:S1068"&Remove this unused "km" private field.(«‘ğŞùÿÿÿÿ8×»½ÖÚ.
